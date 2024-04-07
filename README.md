@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer & game developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **Apache NiFi & JAX-RS**
+- 🌱 I’m currently learning about **Apache NiFi & JAX-RS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rafireyhan.github.io/portfolio-tailwind-css/)
 
