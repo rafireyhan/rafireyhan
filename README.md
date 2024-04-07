@@ -38,7 +38,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafireyhan&theme=default&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafireyhan&theme=default&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
