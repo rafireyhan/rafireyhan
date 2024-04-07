@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/template/20220505/ourmid/pngtree-programming-and-coding-banner-working-image_1312497.jpg)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Rafi Reyhan</h1>
 <h3 align="center">A passionate backend developer & game developer from Indonesia</h3>
 
