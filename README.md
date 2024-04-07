@@ -3,11 +3,8 @@
 <h3 align="center">A passionate backend developer & game developer from Indonesia</h3>
 
 - 🌱 I’m currently learning about **Apache NiFi & JAX-RS**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://rafireyhan.github.io/portfolio-tailwind-css/)
-
 - 💬 Ask me about **ExpressJS, Unity3D, NodeJS**
-
 - 📫 How to reach me **rafireyhanwork@gmail.com**
 
 ## 🌐 Socials
@@ -38,11 +35,12 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Unity3D](https://img.shields.io/badge/Unity3D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rafireyhan&theme=default&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafireyhan&theme=default&hide_border=false)
+<div style="display: flex; justify-content: flex-end;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rafireyhan&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafireyhan&theme=default&hide_border=false" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafireyhan&theme=default&no-frame=true&no-bg=false&margin-w=1)
