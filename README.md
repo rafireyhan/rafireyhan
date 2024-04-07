@@ -3,8 +3,11 @@
 <h3 align="center">A passionate backend developer & game developer from Indonesia</h3>
 
 - 🌱 I’m currently learning about **Apache NiFi & JAX-RS**
+  
 - 👨‍💻 All of my projects are available at [Portfolio](https://rafireyhan.github.io/portfolio-tailwind-css/)
+  
 - 💬 Ask me about **ExpressJS, Unity3D, NodeJS**
+  
 - 📫 How to reach me **rafireyhanwork@gmail.com**
 
 ## 🌐 Socials
