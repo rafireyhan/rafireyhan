@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rafi Reyhan</h1>
 <h3 align="center">A passionate backend developer & game developer from Indonesia</h3>
 
-- 🌱 I’m currently learning about **Apache NiFi & JAX-RS**
+- 🌱 I’m currently learning about **Apache NiFi, JAX-RS & .NET Framework**
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://rafireyhan.github.io/portfolio-tailwind-css/)
   
