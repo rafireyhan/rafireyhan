@@ -39,7 +39,7 @@
 ![Unity3D](https://img.shields.io/badge/Unity3D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true) <br>
+![](https://github-readme-stats.vercel.app/api?username=rafireyhan&theme=default&hide_border=true&include_all_commits=false&count_private=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafireyhan&theme=default&hide_border=true)
 
