@@ -1,17 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Rafi Reyhan</h1>
 <h3 align="center">A passionate backend developer & game developer from Indonesia</h3>
-
-- 🌱 I’m currently learning about **Apache NiFi, JAX-RS & .NET Framework**
   
 - 👨‍💻 All of my projects are available at [Portfolio](https://rafireyhan.github.io/portfolio-tailwind-css/)
   
-- 💬 Ask me about **ExpressJS, Unity3D, NodeJS**
-  
 - 📫 How to reach me **rafireyhanwork@gmail.com**
-
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrafireyhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrafireyhan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rafireyhann) 
+  
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -39,10 +33,5 @@
 ![Unity3D](https://img.shields.io/badge/Unity3D-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rafireyhan&theme=default&hide_border=true&include_all_commits=false&count_private=false) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafireyhan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafireyhan&theme=default&hide_border=true)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafireyhan&theme=default&no-frame=true&no-bg=false&margin-w=1)
